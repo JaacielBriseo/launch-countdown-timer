@@ -13,6 +13,11 @@ Users should be able to:
 
 ![](./screenshot.png)
 
+### Links
+
+- Solution URL: [https://www.frontendmentor.io/solutions/launch-countdown-timer-with-react-and-tailwind-css-OvzS_oxCIY]
+- Live Site URL: [https://jaacielbriseo.github.io/launch-countdown-timer/]
+
 ### Built with
 
 - Semantic HTML5 markup
