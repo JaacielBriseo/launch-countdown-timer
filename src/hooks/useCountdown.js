@@ -23,6 +23,7 @@ export const useCountdown = () => {
 		return () => {
 			clearInterval(countdownInterval);
 		};
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [countdown]);
 
 	return {

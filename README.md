@@ -9,6 +9,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - See a live countdown timer that ticks down every second (Countdown to new year)
 
+### Screenshot
+
+![](./screenshot.png)
+
 ### Built with
 
 - Semantic HTML5 markup
